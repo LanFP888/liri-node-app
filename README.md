@@ -11,8 +11,8 @@ The Spotify API requires you sign up as a developer to generate the necessary cr
 * **Step Three:** Once logged in, navigate to https://developer.spotify.com/my-applications/#!/applications/create to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
 * **Step Four:** Create an .env file on the root folder and supply your Spotify ID and Secret:
 
-* SPOTIFY_ID=spotify_id
-* SPOTIFY_SECRET=spotify_secret
+    * SPOTIFY_ID=spotify_id
+    * SPOTIFY_SECRET=spotify_secret
 
 # Commands
 
