@@ -1,1 +1,3 @@
-spotify-this,"I Want it That Way" concert-this,"Bruno Mars" movie-this,"The Terminator"
+spotify-this,"I Want it That Way"
+concert-this,"Bruno Mars"
+movie-this,"The Terminator"
